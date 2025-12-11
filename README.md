@@ -36,6 +36,9 @@ cmake ..
 cmake --build .
 ./dds_example # .\dds_example for windows
 ```
+#### Output:
+![Alt text](build/output-screenshot.png "Optional Title") 
+
 
 ## Project Structure
 

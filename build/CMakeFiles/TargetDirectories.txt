@@ -1,0 +1,4 @@
+C:/Users/omara/Desktop/omg-dds/build/CMakeFiles/dds.dir
+C:/Users/omara/Desktop/omg-dds/build/CMakeFiles/dds_example.dir
+C:/Users/omara/Desktop/omg-dds/build/CMakeFiles/edit_cache.dir
+C:/Users/omara/Desktop/omg-dds/build/CMakeFiles/rebuild_cache.dir

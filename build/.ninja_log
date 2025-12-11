@@ -1,0 +1,11 @@
+# ninja log v7
+7	901	7871916483132455	CMakeFiles/dds.dir/dds/topic.cpp.obj	a36b944afd4cf562
+38	2201	7871916483432241	CMakeFiles/dds_example.dir/examples/sensor_data.cpp.obj	bcf74249389651ad
+12	2280	7871916483232364	CMakeFiles/dds.dir/dds/data_reader.cpp.obj	f82cb9cb902a8854
+17	2310	7871916483271808	CMakeFiles/dds.dir/dds/data_writer.cpp.obj	94cdf394b90d8218
+22	2537	7871916483309356	CMakeFiles/dds.dir/dds/publisher.cpp.obj	114b077bb4c53372
+26	2685	7871916483309356	CMakeFiles/dds.dir/dds/subscriber.cpp.obj	cc0b6f722faa0ef2
+45	3109	7871916483558999	CMakeFiles/dds_example.dir/examples/main.cpp.obj	93622787946763f2
+31	3377	7871916483432241	CMakeFiles/dds.dir/dds/domain_participant.cpp.obj	9aaea2aa68df9379
+3378	3531	7871916516802961	libdds.a	1804a05b6ac60710
+3531	3753	7871916518403090	dds_example.exe	80593a06f790eaa6
